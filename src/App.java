@@ -9,6 +9,7 @@ public class App {
         names.add("James");
         names.add("Kiel");
         names.add("Irina");
+        names.add("Bob");
 
         for (String name : names) {
             System.out.println(name);
