@@ -13,5 +13,8 @@ public class App {
         for (String name : names) {
             System.out.println(name);
         }
+        
+        System.out.println("More changes to cause merge conflicts");
+        System.out.println("Breaking James's app...whoops");
     }
 }
